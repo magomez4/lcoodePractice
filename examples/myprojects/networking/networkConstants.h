@@ -1,0 +1,7 @@
+#ifndef NETWORK_CONSTANTS
+#define NETWORK_CONSTANTS
+
+#define BUFFER_SIZE 1024
+#define CONNECTION_BACKLOG 3
+
+#endif
